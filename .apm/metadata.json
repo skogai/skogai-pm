@@ -1,0 +1,59 @@
+{
+  "source": "official",
+  "repository": "sdi2200262/agentic-project-management",
+  "releaseVersion": "v1.0.2",
+  "cliVersion": "1.0.1",
+  "assistants": [
+    "claude",
+    "codex"
+  ],
+  "installedFiles": {
+    "claude": [
+      ".claude/agents/apm-archive-explorer.md",
+      ".claude/apm-guides/context-gathering.md",
+      ".claude/apm-guides/task-assignment.md",
+      ".claude/apm-guides/task-execution.md",
+      ".claude/apm-guides/task-logging.md",
+      ".claude/apm-guides/task-review.md",
+      ".claude/apm-guides/work-breakdown.md",
+      ".claude/commands/apm-1-initiate-planner.md",
+      ".claude/commands/apm-2-initiate-manager.md",
+      ".claude/commands/apm-3-initiate-worker.md",
+      ".claude/commands/apm-4-check-tasks.md",
+      ".claude/commands/apm-5-check-reports.md",
+      ".claude/commands/apm-6-handoff-manager.md",
+      ".claude/commands/apm-7-handoff-worker.md",
+      ".claude/commands/apm-8-summarize-session.md",
+      ".claude/commands/apm-9-recover.md",
+      ".claude/skills/apm-communication/SKILL.md",
+      ".claude/skills/apm-communication/bus-integration.md"
+    ],
+    "_apm": [
+      ".apm/memory/index.md",
+      ".apm/plan.md",
+      ".apm/spec.md",
+      ".apm/tracker.md"
+    ],
+    "codex": [
+      ".agents/skills/apm-1-initiate-planner/SKILL.md",
+      ".agents/skills/apm-2-initiate-manager/SKILL.md",
+      ".agents/skills/apm-3-initiate-worker/SKILL.md",
+      ".agents/skills/apm-4-check-tasks/SKILL.md",
+      ".agents/skills/apm-5-check-reports/SKILL.md",
+      ".agents/skills/apm-6-handoff-manager/SKILL.md",
+      ".agents/skills/apm-7-handoff-worker/SKILL.md",
+      ".agents/skills/apm-8-summarize-session/SKILL.md",
+      ".agents/skills/apm-9-recover/SKILL.md",
+      ".agents/skills/apm-communication/SKILL.md",
+      ".agents/skills/apm-communication/bus-integration.md",
+      ".codex/agents/apm-archive-explorer.toml",
+      ".codex/apm-guides/context-gathering.md",
+      ".codex/apm-guides/task-assignment.md",
+      ".codex/apm-guides/task-execution.md",
+      ".codex/apm-guides/task-logging.md",
+      ".codex/apm-guides/task-review.md",
+      ".codex/apm-guides/work-breakdown.md"
+    ]
+  },
+  "installedAt": "2026-08-10T05:37:50.358Z"
+}
