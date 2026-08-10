@@ -127,3 +127,4 @@ CLAUDE.md
 
 # Test session analysis workspace (temporary copies for analysis)
 test/
+/.skogai/config/script_metadata.json
